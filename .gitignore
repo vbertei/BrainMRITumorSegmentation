@@ -205,3 +205,47 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ==========================================
+# === AGGIUNTE SPECIFICHE PROGETTO CV ===
+# ==========================================
+
+# --- Dataset e Cartelle Dati (Cruciale per non intasare Git) ---
+data/
+dataset/
+datasets/
+images/
+# Cartelle specifiche nominate nel progetto
+ChestX-ray14/
+HAM10000/
+BrainTumor/
+ISIC/
+# File compressi di grandi dimensioni
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# --- Pesi dei Modelli e Checkpoint ---
+# Impedisce il caricamento di file da centinaia di MB
+models/
+checkpoints/
+saved_models/
+*.pth
+*.pkl
+*.pt
+*.h5
+*.onnx
+*.weights
+
+# --- Output e Log di Training ---
+runs/        
+logs/
+results/
+output/
+wandb/       # Se usi Weights & Biases
+
+# --- Sistema Operativo ---
+.DS_Store    # Mac
+Thumbs.db    # Windows
