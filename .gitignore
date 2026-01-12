@@ -227,17 +227,6 @@ ISIC/
 *.rar
 *.7z
 
-# --- Pesi dei Modelli e Checkpoint ---
-# Impedisce il caricamento di file da centinaia di MB
-models/
-checkpoints/
-saved_models/
-*.pth
-*.pkl
-*.pt
-*.h5
-*.onnx
-*.weights
 
 # --- Output e Log di Training ---
 runs/        
