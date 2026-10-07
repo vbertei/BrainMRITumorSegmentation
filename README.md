@@ -7,7 +7,7 @@ Due to compatibility issues, some sections of the cell outputs may not be visual
 
 Therefore, we recommend opening the notebook directly on Colab at the following link: [Colab Notebook](https://colab.research.google.com/drive/1zSegXG4LUvpuP8BQPghji0i6_JELaMi0?usp=sharing).
 
-Project Members:
+## Project Members
   - _Valentina Bertei_ ([vbertei.vb@gmail.com](vbertei.vb@gmail.com))
   - _Alex Sgammato_ ([alexsgammato@gmail.com](alexsgammato@gmail.com))
   - _Francesco Tarchi_ ([francesco.tarchi01@gmail.com](francesco.tarchi01@gmail.com))
